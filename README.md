@@ -46,8 +46,6 @@ This project serves as both a technical deep dive and a foundation for exploring
 - Replication & redundancy strategies
 - Secure data handling
 
-(Actively expanding tooling alongside strong fundamentals.)
-
 ---
 
 ## 🧩 Languages
