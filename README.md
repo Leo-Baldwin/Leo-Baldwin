@@ -39,7 +39,7 @@ This project serves as both a technical deep dive and a foundation for exploring
 
 **Primary**
 - Java
-- Yet, thats it... im working on it i promise!
+- Yet, thats it... im working on it I promise!
 
 ---
 
