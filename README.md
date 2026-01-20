@@ -4,6 +4,12 @@ I'm Leo, a final-year **Software Engineering student** with a strong interest in
 
 ---
 
+## 📊 GitHub Overview
+
+![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leo-Baldwin&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark)
+
+---
+
 ## 🧠 Current Focus
 
 - Distributed systems architecture
@@ -44,6 +50,12 @@ This project serves as both a technical deep dive and a foundation for exploring
 
 ---
 
+## 🧩 Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leo-Baldwin&layout=compact&hide_border=true&theme=github_dark)
+
+---
+
 ## 🎯 Goals
 
 - Graduate-level backend / software engineering roles  
@@ -51,9 +63,5 @@ This project serves as both a technical deep dive and a foundation for exploring
 - Build production-grade systems with clear architectural intent  
 
 ---
-
-![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leo-Baldwin&show_icons=true&hide_border=true&hide=issues,contribs)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leo-Baldwin&layout=compact&hide_border=true)
 
 *Focused on fundamentals. Building with purpose. Learning continuously.*
