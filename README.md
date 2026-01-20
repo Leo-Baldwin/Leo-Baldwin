@@ -4,15 +4,6 @@ I'm Leo, a final-year **Software Engineering student** based in Cambridge, UK.
 
 ---
 
-## 🧠 Current Focus
-
-- Distributed systems architecture
-- Backend system design
-- Data replication & fault tolerance
-- Secure file storage and communication
-
----
-
 ## 📊 GitHub Overview
 
 ![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leo-Baldwin&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark)
