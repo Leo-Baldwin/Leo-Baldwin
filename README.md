@@ -1,12 +1,6 @@
 ## Hi there 👋
 
-I'm Leo, a final-year **Software Engineering student** with a strong interest in **distributed systems**, **backend engineering**, **security**, and applied **AI**.
-
----
-
-## 📊 GitHub Overview
-
-![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leo-Baldwin&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark)
+I'm Leo, a final-year **Software Engineering student** based in Cambridge, UK.
 
 ---
 
@@ -16,11 +10,17 @@ I'm Leo, a final-year **Software Engineering student** with a strong interest in
 - Backend system design
 - Data replication & fault tolerance
 - Secure file storage and communication
-- Foundations of AI-assisted systems
 
 ---
 
-## 🚀 Final Year Project
+## 📊 GitHub Overview
+
+![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leo-Baldwin&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark)
+
+
+---
+
+## 🚀 Top Project
 
 **Distributed File Storage System (Java)**  
 A backend-focused system exploring core distributed systems principles, including:
@@ -39,12 +39,7 @@ This project serves as both a technical deep dive and a foundation for exploring
 
 **Primary**
 - Java
-
-**Conceptual / Architectural Experience**
-- Distributed systems
-- Client–server architecture
-- Replication & redundancy strategies
-- Secure data handling
+- Yet, thats it... im working on it i promise!
 
 ---
 
