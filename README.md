@@ -10,7 +10,8 @@ I'm Leo, a final-year **Software Engineering student** based in Cambridge, UK.
 
 ## 🚀 Top Project
 
-**Distributed File Storage System (Java)**  
+**Distributed File Storage System (Java)**
+
 A backend-focused system exploring core distributed systems principles, including:
 
 - Secure file chunking and encryption  
