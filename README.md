@@ -56,12 +56,4 @@ This project serves as both a technical deep dive and a foundation for exploring
 
 ---
 
-## 🎯 Goals
-
-- Graduate-level backend / software engineering roles  
-- Deepen expertise in distributed and scalable systems  
-- Build production-grade systems with clear architectural intent  
-
----
-
 *Focused on fundamentals. Building with purpose. Learning continuously.*
