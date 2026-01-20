@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-I'm Leo. a inal-year **Software Engineering student** with a strong interest in **distributed systems**, **backend engineering**, **security**, and applied **AI**.
-
-I focus on building systems that prioritise correctness, reliability, and scalability — with an emphasis on understanding *how things work under the hood*, not just using abstractions.
+I'm Leo, a final-year **Software Engineering student** with a strong interest in **distributed systems**, **backend engineering**, **security**, and applied **AI**.
 
 ---
 
@@ -53,5 +51,9 @@ This project serves as both a technical deep dive and a foundation for exploring
 - Build production-grade systems with clear architectural intent  
 
 ---
+
+![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leo-Baldwin&show_icons=true&hide_border=true&hide=issues,contribs)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leo-Baldwin&layout=compact&hide_border=true)
 
 *Focused on fundamentals. Building with purpose. Learning continuously.*
