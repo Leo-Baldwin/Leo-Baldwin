@@ -5,7 +5,7 @@ I'm Leo, a final-year **Software Engineering student** based in Cambridge, UK.
 
 ## 📊 GitHub Overview
 
-![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leo-Baldwin&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark)
+![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leo-Baldwin&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark&v=1)
 
 
 ## 🚀 Top Project
@@ -32,7 +32,7 @@ This project serves as both a technical deep dive and a foundation for exploring
 
 ## 🧩 Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leo-Baldwin&layout=compact&hide_border=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leo-Baldwin&layout=compact&hide_border=true&theme=github_dark&v=1)
 
 
 *Focused on fundamentals. Building with purpose. Learning continuously.*
