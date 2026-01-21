@@ -5,7 +5,7 @@ I'm Leo, a final-year **Software Engineering student** based in Cambridge, UK.
 
 ## 📊 GitHub Overview
 
-![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leo-Baldwin&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark&v=1)
+![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leo&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark&v=1)
 
 
 ## 🚀 Top Project
