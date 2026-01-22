@@ -16,7 +16,7 @@ I'm Leo, a final-year **Software Engineering student** based in Cambridge, UK.
 - Maven
 
 ### Development Tools
-- Git
+- Git / Github
 - VS Code
 
 ### Databases
