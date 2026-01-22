@@ -19,6 +19,9 @@ I'm Leo, a final-year **Software Engineering student** based in Cambridge, UK.
 - Git
 - VS Code
 
+### Databases
+- SQL (relational databases)
+
 ### System & Environment
 - macOS
 - Homebrew
