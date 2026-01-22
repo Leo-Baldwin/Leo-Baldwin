@@ -11,6 +11,7 @@ I'm Leo, a final-year **Software Engineering student** based in Cambridge, UK.
 
 ### Languages
 - Java
+- Python
 
 ### Build & Dependency Management
 - Maven
@@ -30,13 +31,12 @@ I'm Leo, a final-year **Software Engineering student** based in Cambridge, UK.
 - Java Virtual Machine (JVM)
 - Docker
 
-## 🧠 Skills & Concepts
+## 🧠 Interests
 
 - Client–server and distributed system architecture
 - File chunking, replication, and storage strategies
 - Dependency management and Java build pipelines
 - Classpath and runtime environment management
-- Compiled language workflows
 - Networking fundamentals (TCP-based systems)
 - Packaging and deployment of Java applications
 
