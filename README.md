@@ -2,30 +2,6 @@
 
 I'm Leo, a final-year **Software Engineering student** based in Cambridge, UK.
 
-## 🧰 Tech Stack
-
-### Languages
-- Java
-- Python
-
-### Build & Dependency Management
-- Maven
-
-### Development Tools
-- Git / Github
-- VS Code
-
-### Databases
-- SQL (relational databases)
-
-### System & Environment
-- macOS
-- Homebrew
-
-### Runtime & Deployment
-- Java Virtual Machine (JVM)
-- Docker
-
 ## 🧠 Interests
 
 - Client–server and distributed system architecture
