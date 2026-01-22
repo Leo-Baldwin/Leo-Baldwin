@@ -7,28 +7,39 @@ I'm Leo, a final-year **Software Engineering student** based in Cambridge, UK.
 
 ![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leo-Baldwin&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark&v=1)
 
+## 🧰 Tech Stack
 
-## 🚀 Top Project
+### Languages
+- **Java**
+- **C++**
+- **Python**
 
-**Distributed File Storage System (Java)**
+### Build & Dependency Management
+- **Maven**
 
-A backend-focused system exploring core distributed systems principles, including:
+### Development Tools
+- **Git**
+- **VS Code**
 
-- Secure file chunking and encryption  
-- Replication across multiple nodes  
-- Fault tolerance and redundancy models  
-- Client–server communication design  
-- Architectural concepts inspired by RAID and HDFS  
+### System & Environment
+- **macOS**
+- **Homebrew**
 
-This project serves as both a technical deep dive and a foundation for exploring real-world, scalable backend systems.
+### Runtime & Deployment
+- **Java Virtual Machine (JVM)**
+- **Docker**
 
+## 🧠 Skills & Concepts
 
-## 🛠 Tech Stack
-
-**Primary**
-- Java
-- Yet, thats it... im working on it I promise!
-
+- Object-oriented programming (OOP)
+- Client–server architecture
+- Distributed file storage systems
+- File chunking and replication strategies
+- Dependency management and build pipelines
+- Classpath management
+- Compiled language workflows
+- Networking fundamentals (TCP-based systems)
+- Packaging and deployment of Java applications
 
 ## 🧩 Languages
 
