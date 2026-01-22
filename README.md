@@ -1,4 +1,8 @@
-# Hi there 👋
+### Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> 
+
+I’m [**Miraya**](https://www.liinks.co/mirayatech), a design engineer based in Germany.
+
+### Hi there 👋
 
 I'm Leo, a final-year **Software Engineering student** based in Cambridge, UK.
 
