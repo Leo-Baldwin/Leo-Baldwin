@@ -2,11 +2,6 @@
 
 I'm Leo, a final-year **Software Engineering student** based in Cambridge, UK.
 
-
-## 📊 GitHub Overview
-
-![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leo-Baldwin&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark&v=1)
-
 ## 🧰 Tech Stack
 
 ### Languages
@@ -36,13 +31,9 @@ I'm Leo, a final-year **Software Engineering student** based in Cambridge, UK.
 - Client–server and distributed system architecture
 - File chunking, replication, and storage strategies
 - Dependency management and Java build pipelines
-- Classpath and runtime environment management
 - Networking fundamentals (TCP-based systems)
 - Packaging and deployment of Java applications
 
 ## 🧩 Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leo-Baldwin&layout=compact&hide_border=true&theme=github_dark&v=1)
-
-
-*Focused on fundamentals. Building with purpose. Learning continuously.*
