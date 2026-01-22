@@ -10,22 +10,22 @@ I'm Leo, a final-year **Software Engineering student** based in Cambridge, UK.
 ## 🧰 Tech Stack
 
 ### Languages
-- **Java** (Primary)
+- Java
 
 ### Build & Dependency Management
-- **Maven**
+- Maven
 
 ### Development Tools
-- **Git**
-- **VS Code**
+- Git
+- VS Code
 
 ### System & Environment
-- **macOS**
-- **Homebrew**
+- macOS
+- Homebrew
 
 ### Runtime & Deployment
-- **Java Virtual Machine (JVM)**
-- **Docker**
+- Java Virtual Machine (JVM)
+- Docker
 
 ## 🧠 Skills & Concepts
 
