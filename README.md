@@ -10,9 +10,7 @@ I'm Leo, a final-year **Software Engineering student** based in Cambridge, UK.
 ## 🧰 Tech Stack
 
 ### Languages
-- **Java**
-- **C++**
-- **Python**
+- **Java** (Primary)
 
 ### Build & Dependency Management
 - **Maven**
@@ -31,12 +29,10 @@ I'm Leo, a final-year **Software Engineering student** based in Cambridge, UK.
 
 ## 🧠 Skills & Concepts
 
-- Object-oriented programming (OOP)
-- Client–server architecture
-- Distributed file storage systems
-- File chunking and replication strategies
-- Dependency management and build pipelines
-- Classpath management
+- Client–server and distributed system architecture
+- File chunking, replication, and storage strategies
+- Dependency management and Java build pipelines
+- Classpath and runtime environment management
 - Compiled language workflows
 - Networking fundamentals (TCP-based systems)
 - Packaging and deployment of Java applications
