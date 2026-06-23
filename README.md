@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-I'm Leo, a final-year **Software Engineering student** based in Cambridge, UK.
+I'm Leo, a **Software Engineer** based in Cambridge, UK.
