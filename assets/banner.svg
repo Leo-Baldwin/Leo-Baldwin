@@ -1,0 +1,117 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="240" viewBox="0 0 1000 240" role="img" aria-label="Leo Baldwin, Software Engineer">
+  <style>
+    .bg{fill:#f6f8fa;stroke:#d0d7de}
+    .name{fill:#1f2328}
+    .muted{fill:#59636e}
+    .acc,.c1{fill:#0969da}
+    .c2{fill:#1a7f37}
+    .c3{fill:#8250df}
+    .wire{stroke:#c8d1da;fill:none;stroke-width:1.5;stroke-dasharray:4 6;animation:flow 1s linear infinite}
+    .node{fill:#ffffff;stroke:#d0d7de;stroke-width:1.5}
+    text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace}
+    .sans{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}
+    @keyframes flow{to{stroke-dashoffset:-10}}
+    @media (prefers-color-scheme: dark){
+      .bg{fill:#0d1117;stroke:#30363d}
+      .name{fill:#e6edf3}
+      .muted{fill:#8b949e}
+      .acc,.c1{fill:#58a6ff}
+      .c2{fill:#3fb950}
+      .c3{fill:#a371f7}
+      .wire{stroke:#30363d}
+      .node{fill:#161b22;stroke:#30363d}
+    }
+  </style>
+
+  <defs>
+    <clipPath id="ca"><rect x="88" y="128" height="34" width="0">
+      <animate attributeName="width" dur="12s" repeatCount="indefinite" keyTimes="0;0.1;0.25;0.3;1" values="0;224;224;0;0"/>
+    </rect></clipPath>
+    <clipPath id="cb"><rect x="88" y="128" height="34" width="0">
+      <animate attributeName="width" dur="12s" repeatCount="indefinite" keyTimes="0;0.333;0.433;0.583;0.633;1" values="0;0;356;356;0;0"/>
+    </rect></clipPath>
+    <clipPath id="cc"><rect x="88" y="128" height="34" width="0">
+      <animate attributeName="width" dur="12s" repeatCount="indefinite" keyTimes="0;0.667;0.767;0.917;0.967;1" values="0;0;356;356;0;0"/>
+    </rect></clipPath>
+    <path id="p1" d="M684 120 C760 120 780 60 860 60"/>
+    <path id="p2" d="M684 120 L860 120"/>
+    <path id="p3" d="M684 120 C760 120 780 180 860 180"/>
+  </defs>
+
+  <rect class="bg" x="1" y="1" width="998" height="238" rx="14"/>
+
+  <!-- Left: name + typed tagline -->
+  <text class="name sans" x="60" y="100" font-size="50" font-weight="700">Leo Baldwin</text>
+  <text class="acc" x="60" y="152" font-size="22" font-weight="700">&gt;</text>
+  <text class="name" x="88" y="152" font-size="22" textLength="224" lengthAdjust="spacingAndGlyphs" clip-path="url(#ca)">software engineer</text>
+  <text class="name" x="88" y="152" font-size="22" textLength="356" lengthAdjust="spacingAndGlyphs" clip-path="url(#cb)">distributed systems builder</text>
+  <text class="name" x="88" y="152" font-size="22" textLength="356" lengthAdjust="spacingAndGlyphs" clip-path="url(#cc)">java · python · tcp sockets</text>
+  <rect class="acc" x="88" y="134" width="11" height="23" rx="1">
+    <animate attributeName="x" dur="12s" repeatCount="indefinite"
+      keyTimes="0;0.1;0.25;0.3;0.333;0.433;0.583;0.633;0.667;0.767;0.917;0.967;1"
+      values="90;314;314;90;90;446;446;90;90;446;446;90;90"/>
+    <animate attributeName="opacity" dur="1s" repeatCount="indefinite" calcMode="discrete" values="1;0"/>
+  </rect>
+  <text class="muted" x="60" y="200" font-size="14">// cambridge, uk</text>
+
+  <!-- Right: a file being chunked and replicated across nodes (RF=2) -->
+  <text class="muted" x="620" y="36" font-size="12">chunk → replicate → store</text>
+  <use href="#p1" class="wire"/>
+  <use href="#p2" class="wire"/>
+  <use href="#p3" class="wire"/>
+
+  <g transform="translate(620,92)">
+    <rect class="node" width="64" height="56" rx="6"/>
+    <rect class="c1" x="10" y="10" width="44" height="9" rx="2"/>
+    <rect class="c2" x="10" y="23.5" width="44" height="9" rx="2"/>
+    <rect class="c3" x="10" y="37" width="44" height="9" rx="2"/>
+  </g>
+  <text class="muted" x="636" y="170" font-size="12">file</text>
+
+  <g>
+    <rect class="node" x="860" y="42" width="100" height="36" rx="8"/>
+    <text class="muted" x="872" y="65" font-size="12">node-1</text>
+    <rect class="c1" x="928" y="56" width="9" height="9" rx="2"/>
+    <rect class="c3" x="941" y="56" width="9" height="9" rx="2"/>
+  </g>
+  <g>
+    <rect class="node" x="860" y="102" width="100" height="36" rx="8"/>
+    <text class="muted" x="872" y="125" font-size="12">node-2</text>
+    <rect class="c1" x="928" y="116" width="9" height="9" rx="2"/>
+    <rect class="c2" x="941" y="116" width="9" height="9" rx="2"/>
+  </g>
+  <g>
+    <rect class="node" x="860" y="162" width="100" height="36" rx="8"/>
+    <text class="muted" x="872" y="185" font-size="12">node-3</text>
+    <rect class="c2" x="928" y="176" width="9" height="9" rx="2"/>
+    <rect class="c3" x="941" y="176" width="9" height="9" rx="2"/>
+  </g>
+
+  <!-- Packets in flight: each chunk goes to two nodes -->
+  <g>
+    <rect class="c1" x="-5" y="-5" width="10" height="10" rx="2" opacity="0">
+      <animateMotion dur="3s" begin="0s" repeatCount="indefinite" keyPoints="0;1;1" keyTimes="0;0.6;1" calcMode="linear"><mpath href="#p1"/></animateMotion>
+      <animate attributeName="opacity" dur="3s" begin="0s" repeatCount="indefinite" keyTimes="0;0.1;0.55;0.6;1" values="0;1;1;0;0"/>
+    </rect>
+    <rect class="c1" x="-5" y="-5" width="10" height="10" rx="2" opacity="0">
+      <animateMotion dur="3s" begin="0.5s" repeatCount="indefinite" keyPoints="0;1;1" keyTimes="0;0.6;1" calcMode="linear"><mpath href="#p2"/></animateMotion>
+      <animate attributeName="opacity" dur="3s" begin="0.5s" repeatCount="indefinite" keyTimes="0;0.1;0.55;0.6;1" values="0;1;1;0;0"/>
+    </rect>
+    <rect class="c2" x="-5" y="-5" width="10" height="10" rx="2" opacity="0">
+      <animateMotion dur="3s" begin="1s" repeatCount="indefinite" keyPoints="0;1;1" keyTimes="0;0.6;1" calcMode="linear"><mpath href="#p2"/></animateMotion>
+      <animate attributeName="opacity" dur="3s" begin="1s" repeatCount="indefinite" keyTimes="0;0.1;0.55;0.6;1" values="0;1;1;0;0"/>
+    </rect>
+    <rect class="c2" x="-5" y="-5" width="10" height="10" rx="2" opacity="0">
+      <animateMotion dur="3s" begin="1.5s" repeatCount="indefinite" keyPoints="0;1;1" keyTimes="0;0.6;1" calcMode="linear"><mpath href="#p3"/></animateMotion>
+      <animate attributeName="opacity" dur="3s" begin="1.5s" repeatCount="indefinite" keyTimes="0;0.1;0.55;0.6;1" values="0;1;1;0;0"/>
+    </rect>
+    <rect class="c3" x="-5" y="-5" width="10" height="10" rx="2" opacity="0">
+      <animateMotion dur="3s" begin="2s" repeatCount="indefinite" keyPoints="0;1;1" keyTimes="0;0.6;1" calcMode="linear"><mpath href="#p3"/></animateMotion>
+      <animate attributeName="opacity" dur="3s" begin="2s" repeatCount="indefinite" keyTimes="0;0.1;0.55;0.6;1" values="0;1;1;0;0"/>
+    </rect>
+    <rect class="c3" x="-5" y="-5" width="10" height="10" rx="2" opacity="0">
+      <animateMotion dur="3s" begin="2.5s" repeatCount="indefinite" keyPoints="0;1;1" keyTimes="0;0.6;1" calcMode="linear"><mpath href="#p1"/></animateMotion>
+      <animate attributeName="opacity" dur="3s" begin="2.5s" repeatCount="indefinite" keyTimes="0;0.1;0.55;0.6;1" values="0;1;1;0;0"/>
+    </rect>
+  </g>
+</svg>
